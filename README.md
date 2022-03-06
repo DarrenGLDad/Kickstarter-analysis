@@ -1,3 +1,26 @@
+# Kickstarting with Excel
+
+## Overview of Project
+The client would like to ascertain how certain campaigns fared in relation to their launch date and funding goals. The following analysis will provide a comprehensive report so that the client can have a concise account in order to formulate the optimal target.
+### Purpose
+The purpose of the following analysis is to uncover trends based on the Kickstarter data provided by the client.
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+Through an analysis of the Launch Dates, there is a great deal of success during the summer months, peaking at the very beginning of the season in the month of May. In addition, there is no correlation between the success rate and canceled campaigns, in fact there seems to be no trend regarding canceled campaigns.
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/100239100/156942696-a31fb9b7-d9df-4771-b89e-96704133a505.png)
+
+### Analysis of Outcomes Based on Goals
+Through the analysis of the Goals, there doesn't appear to be any direct correlations. Further more, there is a noticable contrast between success and failed when the monetary goal range is $45K-$49999.
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100239100/156942669-8f879896-1929-4aa7-b21f-e2ca409d9c9c.png)
+
+### Challenges and Difficulties Encountered
+The challenges or possible challenges that arise in the analysis is the amount of data provided for examination. The devotion to breaking down the category section as well as converting the timestamps, although necessary and imperative, these tasks are essential.
+## Results
+[Kickstarter_Challenge copy.xlsx.zip](https://github.com/DarrenGLDad/Kickstarter-analysis/files/8193517/Kickstarter_Challenge.copy.xlsx.zip)
+
+
+
 # An Analsis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
 ### Kickstarter Crowdfunding 
