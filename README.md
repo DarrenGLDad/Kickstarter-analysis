@@ -18,6 +18,10 @@ Through the analysis of the Goals, there doesn't appear to be any direct correla
 The challenges or possible challenges that arise in the analysis is the amount of data provided for examination. The devotion to breaking down the category section as well as converting the timestamps, although necessary and imperative, these tasks are essential.
 ## Results
 [Kickstarter_Challenge copy.xlsx.zip](https://github.com/DarrenGLDad/Kickstarter-analysis/files/8238485/Kickstarter_Challenge.copy.xlsx.zip)
+### What are some limitations of this dataset?
+The limitations are the information doesn't provide exactly how many people gave specific donation amounts. I think that information might provide a little more insight regarding mean median and mode, more specific the mode and subsequently any extremes.
+### What are some other possible tables and/or graphs that we could create?
+We could create a pivot table and bar graph to see how much is raised by the year and month and exactly how much each person is giving to the specific play.
 
 
 
