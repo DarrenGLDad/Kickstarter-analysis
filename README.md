@@ -12,7 +12,8 @@ Through an analysis of the Launch Dates, there is a great deal of success during
 
 ### Analysis of Outcomes Based on Goals
 Through the analysis of the Goals, there doesn't appear to be any direct correlations. Further more, there is a noticable contrast between success and failed when the monetary goal range is $45K-$49999.
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100239100/156942669-8f879896-1929-4aa7-b21f-e2ca409d9c9c.png)
+ <img width="628" alt="image" src="https://user-images.githubusercontent.com/100239100/161205087-94f78368-5680-4ed9-a35b-d0f1c9859375.png">
+
 
 ### Challenges and Difficulties Encountered
 The challenges or possible challenges that arise in the analysis is the amount of data provided for examination. The devotion to breaking down the category section as well as converting the timestamps, although necessary and imperative, these tasks are essential.
