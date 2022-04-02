@@ -1,5 +1,6 @@
 # Kickstarting with Excel
 
+https://github.com/DarrenGLDad/Kickstarter-analysis#:~:text=Commit%20time-,Kickstarter%20Book%20data.xlsx.zip,-correct%20file%20link
 ## Overview of Project
 The client would like to ascertain how certain campaigns fared in relation to their launch date and funding goals. The following analysis will provide a comprehensive report so that the client can have a concise account in order to formulate the optimal target.
 ### Purpose
